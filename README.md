@@ -1,2 +1,2 @@
-# My-Online-Meal-Shop
+# My-Online-Meal-Shop-Project
 # My Online Meal Shop
